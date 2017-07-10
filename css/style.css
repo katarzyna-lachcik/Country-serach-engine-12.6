@@ -16,13 +16,12 @@ body {
     top: 50%;
     left: 50%;
 }
-li {
-    text-align: center;
-    margin: 0 auto;
-}
 h1,
 h2 {
     text-transform: uppercase;
+}
+ul {
+    padding: 0;
 }
 #countries {
     font-size: 20px;
